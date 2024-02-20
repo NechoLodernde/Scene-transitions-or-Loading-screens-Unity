@@ -11,5 +11,11 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Training/Level02.unity
     guid: 4c59d2c1a864b8b43ba35df745723fc4
+  - enabled: 1
+    path: Assets/Scenes/Training/TransitionScene01.unity
+    guid: 72c76f9e74f60554fb598409ab596231
+  - enabled: 1
+    path: Assets/Scenes/Training/TransitionScene02.unity
+    guid: c9546ec7ab057cc449649e71e60abb1e
   m_configObjects: {}
   m_UseUCBPForAssetBundles: 0
